@@ -1,0 +1,17 @@
+{
+  "name": "gulp.email-boilerplate",
+  "description": "Personal Gulp boilerplate for email templates.",
+  "license": "MIT",
+  "keywords": ["email", "template", "boilerplate", "gulp"],
+  "private": true,
+  "authors": [
+    {
+      "name": "Thomas Deinhamer",
+      "email": "thasmo@gmail.com",
+      "homepage": "http://thasmo.com/"
+    }
+  ],
+  "dependencies": {
+    "bourbon": "~4.2"
+  }
+}
