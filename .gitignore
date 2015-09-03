@@ -1,5 +1,5 @@
 # Project
-/public/
+/public/**
 !/public/.gitkeep
 /task/config.local.js
 /task/send
