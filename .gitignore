@@ -2,9 +2,9 @@
 /public/
 !/public/.gitkeep
 /task/config.local.js
+/task/send
 
 # Development
 /node_modules/
 /bower_components/
-/task/send
 *.log
