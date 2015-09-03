@@ -1,0 +1,10 @@
+# Project
+/public/
+!/public/.gitignore
+/task/config.local.js
+
+# Development
+/node_modules/
+/bower_components/
+/task/send
+*.log
