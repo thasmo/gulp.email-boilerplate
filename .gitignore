@@ -1,6 +1,6 @@
 # Project
 /public/
-!/public/.gitignore
+!/public/.gitkeep
 /task/config.local.js
 
 # Development
